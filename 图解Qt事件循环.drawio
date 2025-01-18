@@ -149,7 +149,7 @@
         <mxCell id="GgzJMH0eqgTsFNEw5RE--71" value="eventFilter" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GgzJMH0eqgTsFNEw5RE--72" value="handleMouseEvent&lt;div&gt;(QMouseEvent *event)&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GgzJMH0eqgTsFNEw5RE--72" value="handleMouseEvent&lt;div&gt;(QMouseEvent *event)&lt;br&gt;（鼠标系统消息）&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1890" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GgzJMH0eqgTsFNEw5RE--76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GgzJMH0eqgTsFNEw5RE--73" target="GgzJMH0eqgTsFNEw5RE--75">
@@ -187,10 +187,10 @@
         <mxCell id="GgzJMH0eqgTsFNEw5RE--81" value="which type Event?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="1760" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GgzJMH0eqgTsFNEw5RE--83" value="FunctorCall" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GgzJMH0eqgTsFNEw5RE--83" value="FunctorCall&lt;div&gt;（槽函数消息）&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1890" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GgzJMH0eqgTsFNEw5RE--84" value="customEvent&lt;div&gt;(QEvent* event)&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GgzJMH0eqgTsFNEw5RE--84" value="customEvent&lt;div&gt;(QEvent* event)&lt;/div&gt;&lt;div&gt;（自定义事件）&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1890" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GgzJMH0eqgTsFNEw5RE--85" value="..." style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
