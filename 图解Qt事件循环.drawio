@@ -110,8 +110,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GgzJMH0eqgTsFNEw5RE--37" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="1220" width="120" height="60" as="geometry" />
+        <mxCell id="GgzJMH0eqgTsFNEw5RE--37" value="sendWindowSystemEvents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GgzJMH0eqgTsFNEw5RE--44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GgzJMH0eqgTsFNEw5RE--43" target="GgzJMH0eqgTsFNEw5RE--30">
           <mxGeometry relative="1" as="geometry" />
